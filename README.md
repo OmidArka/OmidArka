@@ -82,8 +82,8 @@ I specialize in **Cisco & MikroTik networks**, **FortiGate firewalls**, and **VM
 
 ### 📬 Contact
 
-- 📧 Email: [omid.arka@gmail.com](mailto:omid.arka@gmail.com)
-- 📱 WhatsApp: +98 9981203244
+- 📧 Email: [omid.arka@gmail.com](mailto:arkaomid@gmail.com)
+- 📱 WhatsApp: +98 9138581481
 - 🌍 GitHub: [github.com/OmidArka](https://github.com/OmidArka)
 
 ---
